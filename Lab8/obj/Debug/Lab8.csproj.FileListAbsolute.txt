@@ -1,0 +1,6 @@
+C:\Users\Jay Patel\Desktop\Projects\BattingStats\Lab8\bin\Debug\Lab8.exe.config
+C:\Users\Jay Patel\Desktop\Projects\BattingStats\Lab8\bin\Debug\Lab8.exe
+C:\Users\Jay Patel\Desktop\Projects\BattingStats\Lab8\bin\Debug\Lab8.pdb
+C:\Users\Jay Patel\Desktop\Projects\BattingStats\Lab8\obj\Debug\Lab8.csprojResolveAssemblyReference.cache
+C:\Users\Jay Patel\Desktop\Projects\BattingStats\Lab8\obj\Debug\Lab8.exe
+C:\Users\Jay Patel\Desktop\Projects\BattingStats\Lab8\obj\Debug\Lab8.pdb
